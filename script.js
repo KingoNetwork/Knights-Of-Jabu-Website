@@ -1,8 +1,8 @@
 $(document).ready(function() {
 	// Definimos os servidores que queremos monitorar
 	var servidores = [
-		{nome: "Lobby", ip: "eua1.xmxcloud.net:26017"},
-		{nome: "RPG", ip: "eua1.xmxcloud.net:26016"},
+		{nome: "Lobby", ip: ":26017"},
+		{nome: "RPG", ip: "104.243.41.127:26016"},
 		{nome: "Pixelmon", ip: "192.168.0.1"},
 		{nome: "Survival", ip: "192.168.0.2"}
 	];
