@@ -1,1 +1,1 @@
-# Knights-Of-Jabu-Website-Wiki
+# Knights-Of-Jabu-Website
