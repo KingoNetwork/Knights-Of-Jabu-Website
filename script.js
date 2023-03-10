@@ -1,7 +1,7 @@
 $(document).ready(function() {
 	// Definimos os servidores que queremos monitorar
 	var servidores = [
-		{nome: "Lobby", ip: "192.168.0.1"},
+		{nome: "Lobby", ip: "lobby.servmine.com"},
 		{nome: "RPG", ip: "192.168.0.2"},
 		{nome: "Pixelmon", ip: "192.168.0.3"},
 		{nome: "Survival", ip: "192.168.0.4"}
